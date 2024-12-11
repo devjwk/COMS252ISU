@@ -1,0 +1,18 @@
+SI : International System of Units
+    Important "small" perfixes in Computing:
+      Prefix Sym. Multiplier
+      milli  m    10^-3
+      micro  u    10^-6
+      nano   n    10^-9
+      pico   p    10^-12
+    Important "large" prefixes in Computing:
+      Prefix Sym. Multiplier
+      kilo   k    10^3
+      mega   M    10^6
+      giga   G    10^9
+      tera   T    10^12
+      peta   P    10^15
+      exa    E    10^18
+      ZETTA  Z    10^21
+
+      
